@@ -1,0 +1,38 @@
+h1 {
+    color: rgb(174, 204, 230);
+}
+
+p {
+    color: rgb(138, 8, 185);
+    
+}
+
+h4 {
+    color: rgb(148, 18, 18);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.family {
+    background-color: rgb(238, 246, 188);
+    font-family: cursive;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 30px;
+}
+
+.family h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.websites {
+    background-color:#FEF6C9;
+    border-radius: 50px;
+    padding: 25px;
+    margin: 20px;
+    margin-top: 70px;
+    
+}
+
+.websites h4 {
+    color:  #2F2F2F;
+}
