@@ -1,5 +1,6 @@
 h1 {
     color: rgb(174, 204, 230);
+    font-family: libre Franklin;
 }
 
 p {
@@ -35,4 +36,26 @@ h4 {
 
 .websites h4 {
     color:  #2F2F2F;
+}
+
+.colour-scheme {
+    background-color: #FCDDF2;
+    padding: 20px;
+    border-radius: 32px;
+    margin-top: 12px;
+    margin: 10px;
+    letter-spacing: 2px;
+    box-shadow: 2px 13px 15px #916953;
+}
+
+.nav-bar {
+    background-color: #9CA3DB;
+    padding: 7px;
+    border-radius: 12px;
+    font-size: large;
+    margin: 9px;
+    letter-spacing: 0.9973px;
+    box-shadow: 1px 12px 15.34px #677DB7;
+    text-align: center;
+    font-weight: 700;
 }
